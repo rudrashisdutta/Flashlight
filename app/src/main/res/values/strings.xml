@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Setting</string>
+    <string name="dummy_button"></string>
+    <string name="dummy_content">FlashLight</string>
+</resources>
