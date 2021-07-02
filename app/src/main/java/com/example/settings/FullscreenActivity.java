@@ -31,6 +31,7 @@ public class FullscreenActivity extends AppCompatActivity {
 
     private ToggleButton toggleButton;
 
+
     /**
      * Whether or not the system UI should be auto-hidden after
      * {@link #AUTO_HIDE_DELAY_MILLIS} milliseconds.
